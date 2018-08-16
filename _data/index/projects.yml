@@ -14,13 +14,12 @@
 #   repo: cpython
 #   img: /static/assets/img/landing/python.png
 #   desc: This project is other's project. I use another request to get repo's information.
-
 - name: Satellite image classification
   i18n: google
   url: https://google.com
   img: /static/assets/img/landing/project_amazon.png
   desc: Classification of cloud-cover type, forest cover, habitation and identification of deforestation and illegal mining activities in the Amazon rainforest, using a deep ConvNet
-
+  
 - name: Single-shot multi-object detection
   i18n: google
   url: https://google.com
@@ -36,7 +35,7 @@
   - name: Scheduler
   i18n: google
   url: https://google.com
-  img: /static/assets/img/landing/project_tgs.png
+  img: /static/assets/img/landing/project_tgs.jpg
   desc: Genetic algorithm based time scheduler with tune-able hyper-parameters corresponding to evoultionary phenomena like geographical isolation
   
   - name: SMach
