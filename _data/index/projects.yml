@@ -1,22 +1,46 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+# - name: Jalpc
+#   i18n: jalpc
+#   gh_user: jarrekk
+#   repo: Jalpc
+#   img: /static/assets/img/landing/jekyll.png
+#   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+# - name: Python
+#   i18n: cpython
+#   gh_user: python
+#   repo: cpython
+#   img: /static/assets/img/landing/python.png
+#   desc: This project is other's project. I use another request to get repo's information.
 
-- name: Google
+- name: Satellite image classification
   i18n: google
   url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  img: /static/assets/img/landing/project_amazon.png
+  desc: Classification of cloud-cover type, forest cover, habitation and identification of deforestation and illegal mining activities in the Amazon rainforest, using a deep ConvNet
+
+- name: Single-shot multi-object detection
+  i18n: google
+  url: https://google.com
+  img: /static/assets/img/landing/project_od.jpg
+  desc: Detection (bounding box) of multiple objects, using a deep ConvNet
+  
+  - name: MNIST handwritten digit recognition
+  i18n: google
+  url: https://google.com
+  img: /static/assets/img/landing/project_mnist.png
+  desc: From scratch implementation in python of fully connected and convolutional neural networks for handwritten digit recognition
+  
+  - name: Scheduler
+  i18n: google
+  url: https://google.com
+  img: /static/assets/img/landing/project_tgs.png
+  desc: Genetic algorithm based time scheduler with tune-able hyper-parameters corresponding to evoultionary phenomena like geographical isolation
+  
+  - name: SMach
+  i18n: google
+  url: https://google.com
+  img: /static/assets/img/landing/project_smach.png
+  desc: Simulated computer from scratch, from NAND gates to a rudimentary operating system. Wrote a compiler for a high-level object-oriented language.
