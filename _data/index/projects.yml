@@ -16,30 +16,30 @@
 #   desc: This project is other's project. I use another request to get repo's information.
 - name: Satellite image classification
   i18n: google
-  url: https://google.com
+  url:
   img: /static/assets/img/landing/project_amazon.png
-  desc: Classification of cloud-cover type, forest cover, habitation and identification of deforestation and illegal mining activities in the Amazon rainforest, using a deep ConvNet
-  
+  desc: Identification of cloud and forest cover type, and illegal deforestation and mining activities
+
 - name: Single-shot multi-object detection
   i18n: google
-  url: https://google.com
+  url:
   img: /static/assets/img/landing/project_od.jpg
   desc: Detection (bounding box) of multiple objects, using a deep ConvNet
   
-  - name: MNIST handwritten digit recognition
+- name: MNIST handwritten digit recognition
   i18n: google
-  url: https://google.com
+  url:
   img: /static/assets/img/landing/project_mnist.png
   desc: From scratch implementation in python of fully connected and convolutional neural networks for handwritten digit recognition
   
-  - name: Scheduler
+- name: Scheduler
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/project_tgs.jpg
+  url:
+  img: /static/assets/img/landing/project_tgs.png
   desc: Genetic algorithm based time scheduler with tune-able hyper-parameters corresponding to evoultionary phenomena like geographical isolation
   
-  - name: SMach
+- name: SMach
   i18n: google
-  url: https://google.com
+  url:
   img: /static/assets/img/landing/project_smach.png
-  desc: Simulated computer from scratch, from NAND gates to a rudimentary operating system. Wrote a compiler for a high-level object-oriented language.
+  desc: Simulated computer from scratch, from NAND gates to a rudimentary operating system, and a compiler for a high-level object-oriented language.

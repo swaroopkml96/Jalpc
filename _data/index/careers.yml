@@ -12,7 +12,7 @@
   job:
     detail: Volunteer
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fas fa-chalkboard-teacher
 
 - name:
     detail: First International Conference on Data Analytics and Learning
@@ -26,18 +26,74 @@
   job:
     detail: Volunteer
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fas fa-hands-helping
 
 - name:
     detail: DoS in CS, Univ. of Mysore
-    i18n: company_b
+    i18n: company_c
   desc:
     detail: Collaborating with students and staff, organizing events and lectures
-    i18n: company_b_desc
+    i18n: company_c_desc
   date:
     detail:
-    i18n: company_b_date
+    i18n: company_c_date
   job:
     detail: Class Representative
-    i18n: company_b_job
-  icon: fa-plus-square
+    i18n: company_c_job
+  icon: fas fa-users
+  
+- name:
+    detail: Cutting-edge deep learning for coders
+    i18n: company_d
+  desc:
+    detail: Multi-object detection, Neural Translation, GANs, Segmentation
+    i18n: company_d_desc
+  date:
+    detail:
+    i18n: company_d_date
+  job:
+    detail: University of San Francisco (<a href="http://www.fast.ai"> fast.ai </a>)
+    i18n: company_d_job
+  icon: fas fa-graduation-cap
+
+- name:
+    detail: Practical deep learning for coders
+    i18n: company_e
+  desc:
+    detail: CNNs, RNNs, NLP
+    i18n: company_e_desc
+  date:
+    detail:
+    i18n: company_e_date
+  job:
+    detail: University of San Francisco (<a href="http://www.fast.ai"> fast.ai </a>)
+    i18n: company_e_job
+  icon: fas fa-graduation-cap
+
+- name:
+    detail: Machine learning (Andrew Ng)
+    i18n: company_g
+  desc:
+    detail: Regression, SVMs, Neural networks
+    i18n: company_g_desc
+  date:
+    detail:
+    i18n: company_g_date
+  job:
+    detail: Stanford University (<a href="http://www.fast.ai"> fast.ai </a>)
+    i18n: company_g_job
+  icon: fas fa-graduation-cap
+
+- name:
+    detail: MSc in Computer Science
+    i18n: company_f
+  desc:
+    detail: Pattern recognition, Image processing, Artificial Intelligence, Geoinformatics and Remote sensing
+    i18n: company_f_desc
+  date:
+    detail:
+    i18n: company_f_date
+  job:
+    detail: DoS in Computer Science, University of Mysore
+    i18n: company_f_job
+  icon: fas fa-graduation-cap
